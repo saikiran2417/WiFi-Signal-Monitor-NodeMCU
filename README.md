@@ -11,7 +11,7 @@ A portable, low-cost embedded system that continuously measures WiFi RSSI, class
 
 ## Demo
 
-📄 [Final Report](Final.pdf)
+📹 [Project Video](https://drive.google.com/file/d/1OqFcfkFqgBYNhKG3a3Z9I0tXgd2RIgBK/view?usp=sharing) | 📄 [Final Report](Final.pdf)
 
 ---
 
